@@ -5,6 +5,10 @@ metadata:
 data:
   myvalue: "Sample Config Map"
 
+
+# First step: 
+# helm create mychartvalue
+
 # .Release.Name ===> 
 # helm install releasename-test ./mychart
 # helm ls
